@@ -1,0 +1,7 @@
+1. client wants to change behaviour without being changed itself.
+
+2. also, we want to:
+	a. reduce code duplication
+	b. make changing behaviour flexible
+
+	
