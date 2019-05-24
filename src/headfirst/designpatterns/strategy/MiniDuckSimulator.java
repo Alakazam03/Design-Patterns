@@ -10,7 +10,7 @@ public class MiniDuckSimulator {
 		RubberDuck	rubberDuckie = new RubberDuck(cantFly, squeak);
 		DecoyDuck	decoy = new DecoyDuck();
  
-		Duck	 model = new ModelDuck();
+		Duck model = new ModelDuck();
 
 		mallard.performQuack();
 		rubberDuckie.performQuack();
